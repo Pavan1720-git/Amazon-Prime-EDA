@@ -147,7 +147,7 @@ Make sure you have Python 3.9+ installed on your system.
 
 ### Step 1: Clone the Repository
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/Pavan1720-git/Amazon-Prime-EDA.git
 cd Amazon-Prime-EDA
 ```
 
